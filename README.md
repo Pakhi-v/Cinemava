@@ -1,5 +1,4 @@
-# Cinemava
-Navigating you through cinema
+# Cinemava - Navigating you through cinema
 
 # ABOUT
 This is a completely responsive web app based on TMDB API, build using React js. <br>
